@@ -1,0 +1,49 @@
+[2026-05-25 12:03] Application started.
+[2026-05-25 12:05] User registered: ummehjamimjariat@gmail.com [STUDENT]
+[2026-05-25 12:05] Login: ummehjamimjariat@gmail.com [STUDENT]
+[2026-05-25 12:06] Login: events@campus.edu [ORGANIZER]
+[2026-05-25 12:08] Event created: TECH FEST
+[2026-05-25 12:08] Event created: CULTURAL NIGHT
+[2026-05-25 12:09] Event created: FOOTBALL TOURNAMENT
+[2026-05-25 12:10] Login: admin@campus.edu [ADMIN]
+[2026-05-25 12:11] Login: ummehjamimjariat@gmail.com [STUDENT]
+[2026-05-25 12:11] Registered: STU101 for ACE101
+[2026-05-25 12:12] Ticket issued: TKT5001 | bKash | TrxID: BK89531017 | Tk 50.0
+[2026-05-25 12:12] Ticket issued: TKT5002 | Rocket | TrxID: RK89563338 | Tk 100.0
+[2026-05-25 12:13] Ticket issued: TKT5003 | Nagad | TrxID: NG89595602 | Tk 80.0
+[2026-05-25 12:13] Registered: STU101 for CUE102
+[2026-05-25 12:13] Registered: STU101 for SPE103
+[2026-05-25 15:41] Application started.
+[2026-05-25 15:42] Login: ummehjamimjariat@gmail.com [STUDENT]
+[2026-05-25 15:42] Ticket cancelled: TKT5001
+[2026-05-25 15:43] Ticket issued: TKT5001 | bKash | TrxID: BK2195048 | Tk 50.0
+[2026-05-25 15:44] Login: events@campus.edu [ORGANIZER]
+[2026-05-25 15:45] Login: admin@campus.edu [ADMIN]
+[2026-05-25 15:46] Login: ummehjamimjariat@gmail.com [STUDENT]
+[2026-05-25 15:46] Ticket cancelled: TKT5002
+[2026-05-25 15:53] Login: events@campus.edu [ORGANIZER]
+[2026-05-25 15:55] Login: admin@campus.edu [ADMIN]
+[2026-05-25 15:58] Login: ummehjamimjariat@gmail.com [STUDENT]
+[2026-05-29 16:00] Application started.
+[2026-05-29 16:00] Login: ummehjamimjariat@gmail.com [STUDENT]
+[2026-05-29 16:01] Login: events@campus.edu [ORGANIZER]
+[2026-05-29 16:02] Login: admin@campus.edu [ADMIN]
+[2026-05-31 20:42] Application started.
+[2026-05-31 20:43] Login: ummehjamimjariat@gmail.com [STUDENT]
+[2026-06-01 10:46] Application started.
+[2026-06-01 16:11] Application started.
+[2026-06-01 16:13] Login: ummehjamimjariat@gmail.com [STUDENT]
+[2026-06-01 16:44] Ticket issued: TKT5001 | bKash | TrxID: BK10674451 | Tk 100.0
+[2026-06-01 16:59] Login: events@campus.edu [ORGANIZER]
+[2026-06-01 17:02] Event created: PROGRAMMING CONTEST
+[2026-06-01 17:04] Event created: HECKATHON
+[2026-06-01 17:05] Event created: POSTER PRESENTATION COMPETITION
+[2026-06-01 17:07] Event created: CYBERSEQUIRITY COMPETITION (CTF)
+[2026-06-01 17:20] Login: admin@campus.edu [ADMIN]
+[2026-06-01 17:34] Login: ummehjamimjariat@gmail.com [STUDENT]
+[2026-06-01 17:34] Registered: STU101 for ACE103
+[2026-06-01 17:35] Registered: STU101 for ACE104
+[2026-06-01 17:35] Cancelled registration: STU101 for ACE101
+[2026-06-01 17:35] Registered: STU101 for ACE101
+[2026-06-01 17:48] Login: events@campus.edu [ORGANIZER]
+[2026-06-01 18:08] Login: admin@campus.edu [ADMIN]

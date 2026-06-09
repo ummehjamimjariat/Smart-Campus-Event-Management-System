@@ -1,0 +1,4 @@
+id,name,email,password,phone,role,extra1,extra2,extra3
+ADM001,System Admin,admin@campus.edu,admin123,01700000000,ADMIN,IT,5
+ORG001,Event Club,events@campus.edu,org123,01711111111,ORGANIZER,Campus Events Club
+STU101,Ummeh Jamim Jariat,ummehjamimjariat@gmail.com,25070111,01791960977,STUDENT,25070111,CSE,1
